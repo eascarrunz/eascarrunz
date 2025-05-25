@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome!
 
 <!--
 **eascarrunz/eascarrunz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a second-year bioinformatics master's student at Université Paris-Saclay, in Évry France. I also have a background in systematic biology, zoology, and evolution. 
+
+I want to work with researchers in the life sciences to help them make use of the bioinformatics tools that suit their projects, and to develop and maintain tools and infrastructure.
+
+Currently, I am doing an internship at the Institut de Recherche pour le Développement (IRD), in Montpellier. I am developing a Nextflow workflow for the detection of adenosine to inosine RNA edits from RNA-Seq data.
