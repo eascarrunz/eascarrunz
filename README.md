@@ -1,26 +1,3 @@
-<style>
-    .logo-row {
-        display: flex;
-        align-items: center;
-        justify-content: left;
-        gap: 2% 20px;
-        width: 100%;
-        flex-wrap: wrap;
-    }
-    .repo-row {
-        display: flex;
-        align-items: center;
-        justify-content: left;
-        gap: 5px;
-    }
-    .repo-elem {
-        width: 300px;
-    }
-    img {
-        max-width: 100%;
-    }
-</style>
-
 ## Welcome!
 
 My name is Eduardo Ascarrunz. I'm a second-year bioinformatics master's student at Université Paris-Saclay, in Évry France. I also have a background in systematic biology, zoology, and evolution. 
