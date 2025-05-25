@@ -6,17 +6,17 @@ I want to work with researchers in the life sciences to help them make use of th
 
 Currently, I am doing an internship at the Institut de Recherche pour le Développement (IRD), in Montpellier. I am developing a Nextflow workflow for the detection of adenosine to inosine RNA edits from RNA-Seq data.
 
-These are some of the technologies that I use:
+### Some of the technologies that I use
 
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=julia,python,r,bash,git,docker,anaconda&theme=dark" />
 </a>
 <a href="https://go-skill-icons.vercel.app/">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nextflow,linux,vscode&theme=dark&titles=true" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nextflow,linux,vscode,typst&theme=dark&titles=true" />
 </a>
 
 
-### Course projects
+### University projects
 
 <div class="repo-row">
 <a href="https://github.com/eascarrunz/rna_scoring_geniomhe">
