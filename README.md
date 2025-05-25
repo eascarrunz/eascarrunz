@@ -6,17 +6,15 @@ I want to work with researchers in the life sciences to help them make use of th
 
 Currently, I am doing an internship at the Institut de Recherche pour le Développement (IRD), in Montpellier. I am developing a Nextflow workflow for the detection of adenosine to inosine RNA edits from RNA-Seq data.
 
-### Some of the technologies that I use
+These are some of the technologies that I use:
 
-<div class="logo-row">
-<img src="assets/julia_logo.svg" alt="The Julia programming language" width="100px">
-<img src="assets/python-logo.svg" alt="The Python programming language" width="150px">
-<img src="assets/r-logo.svg" alt="The R programming language" width="60px">
-<img src="assets/nextflow-logo.svg" alt="Nextflow" width="150px">
-<img src="assets/bash-logo.svg" alt="Bash" width="150px">
-<img src="assets/docker-logo.svg" alt="Docker" width="150px">
-<img src="assets/conda-logo.svg" alt="Conda" width="150px">
-</div>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=julia,python,r,bash,git,docker,anaconda&theme=dark" />
+</a>
+<a href="https://go-skill-icons.vercel.app/">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nextflow,linux,vscode&theme=dark&titles=true" />
+</a>
+
 
 ### Course projects
 
