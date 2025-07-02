@@ -15,6 +15,11 @@ Currently, I am doing an internship at the Institut de Recherche pour le Dévelo
 <img src="https://go-skill-icons.vercel.app/api/icons?i=nextflow,linux,vscode,typst&theme=dark&titles=true" />
 </a>
 
+### Current project
+
+<a href="https://github.com/Juke34/RAIN">
+    <img class="repo-elem" src="https://github-readme-stats.vercel.app/api/pin/?username=Juke34&repo=RAIN&description_lines_count=3&show_owner=true"/>
+</a>
 
 ### University projects
 
