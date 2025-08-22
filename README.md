@@ -9,7 +9,7 @@ Currently, I am doing an internship at the Institut de Recherche pour le Dévelo
 ### Some of the technologies that I use
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=julia,python,r,bash,git,docker,anaconda&theme=dark" />
+<img src="https://skillicons.dev/icons?i=julia,python,r,go,bash,git,docker,anaconda&theme=dark" />
 </a>
 <a href="https://go-skill-icons.vercel.app/">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=nextflow,linux,vscode,typst&theme=dark&titles=true" />
